@@ -1,0 +1,15 @@
+C:\Users\Adunya\Desktop\AAit\angleFinding\bin\Debug\net6.0\angleFinding.exe
+C:\Users\Adunya\Desktop\AAit\angleFinding\bin\Debug\net6.0\angleFinding.deps.json
+C:\Users\Adunya\Desktop\AAit\angleFinding\bin\Debug\net6.0\angleFinding.runtimeconfig.json
+C:\Users\Adunya\Desktop\AAit\angleFinding\bin\Debug\net6.0\angleFinding.dll
+C:\Users\Adunya\Desktop\AAit\angleFinding\bin\Debug\net6.0\ref\angleFinding.dll
+C:\Users\Adunya\Desktop\AAit\angleFinding\bin\Debug\net6.0\angleFinding.pdb
+C:\Users\Adunya\Desktop\AAit\angleFinding\obj\Debug\net6.0\angleFinding.csproj.AssemblyReference.cache
+C:\Users\Adunya\Desktop\AAit\angleFinding\obj\Debug\net6.0\angleFinding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adunya\Desktop\AAit\angleFinding\obj\Debug\net6.0\angleFinding.AssemblyInfoInputs.cache
+C:\Users\Adunya\Desktop\AAit\angleFinding\obj\Debug\net6.0\angleFinding.AssemblyInfo.cs
+C:\Users\Adunya\Desktop\AAit\angleFinding\obj\Debug\net6.0\angleFinding.csproj.CoreCompileInputs.cache
+C:\Users\Adunya\Desktop\AAit\angleFinding\obj\Debug\net6.0\angleFinding.dll
+C:\Users\Adunya\Desktop\AAit\angleFinding\obj\Debug\net6.0\ref\angleFinding.dll
+C:\Users\Adunya\Desktop\AAit\angleFinding\obj\Debug\net6.0\angleFinding.pdb
+C:\Users\Adunya\Desktop\AAit\angleFinding\obj\Debug\net6.0\angleFinding.genruntimeconfig.cache

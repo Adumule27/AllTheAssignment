@@ -1,0 +1,15 @@
+C:\Users\Adunya\Desktop\AAit\secondLargest\bin\Debug\net6.0\secondLargest.exe
+C:\Users\Adunya\Desktop\AAit\secondLargest\bin\Debug\net6.0\secondLargest.deps.json
+C:\Users\Adunya\Desktop\AAit\secondLargest\bin\Debug\net6.0\secondLargest.runtimeconfig.json
+C:\Users\Adunya\Desktop\AAit\secondLargest\bin\Debug\net6.0\secondLargest.dll
+C:\Users\Adunya\Desktop\AAit\secondLargest\bin\Debug\net6.0\ref\secondLargest.dll
+C:\Users\Adunya\Desktop\AAit\secondLargest\bin\Debug\net6.0\secondLargest.pdb
+C:\Users\Adunya\Desktop\AAit\secondLargest\obj\Debug\net6.0\secondLargest.csproj.AssemblyReference.cache
+C:\Users\Adunya\Desktop\AAit\secondLargest\obj\Debug\net6.0\secondLargest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adunya\Desktop\AAit\secondLargest\obj\Debug\net6.0\secondLargest.AssemblyInfoInputs.cache
+C:\Users\Adunya\Desktop\AAit\secondLargest\obj\Debug\net6.0\secondLargest.AssemblyInfo.cs
+C:\Users\Adunya\Desktop\AAit\secondLargest\obj\Debug\net6.0\secondLargest.csproj.CoreCompileInputs.cache
+C:\Users\Adunya\Desktop\AAit\secondLargest\obj\Debug\net6.0\secondLargest.dll
+C:\Users\Adunya\Desktop\AAit\secondLargest\obj\Debug\net6.0\ref\secondLargest.dll
+C:\Users\Adunya\Desktop\AAit\secondLargest\obj\Debug\net6.0\secondLargest.pdb
+C:\Users\Adunya\Desktop\AAit\secondLargest\obj\Debug\net6.0\secondLargest.genruntimeconfig.cache
