@@ -1,16 +1,19 @@
 ﻿using System;
-
-namespace HelloWorld
+namespace two_dimension_two_one
 {
-    class Program
+    class program
     {
         static void Main(string[] args)
         {
-            int[] ordered = {{3,6,3,2,2}, {8,7,4,2,1}, {0,5,2,1}};
-            
-
+            int[,] hold = {
+                {23,1,56},
+                {44,9,350},
+                {63,4,90}
+            };
+            foreach (var item in hold)
+            {
+                System.Console.Write($"{item} \t");
+            }
         }
-
-
     }
 }

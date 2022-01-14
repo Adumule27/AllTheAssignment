@@ -1,0 +1,15 @@
+C:\Users\Adunya\Desktop\AAit\TwotoOne\obj\Debug\net6.0\TwotoOne.csproj.AssemblyReference.cache
+C:\Users\Adunya\Desktop\AAit\TwotoOne\obj\Debug\net6.0\TwotoOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adunya\Desktop\AAit\TwotoOne\obj\Debug\net6.0\TwotoOne.AssemblyInfoInputs.cache
+C:\Users\Adunya\Desktop\AAit\TwotoOne\obj\Debug\net6.0\TwotoOne.AssemblyInfo.cs
+C:\Users\Adunya\Desktop\AAit\TwotoOne\obj\Debug\net6.0\TwotoOne.csproj.CoreCompileInputs.cache
+C:\Users\Adunya\Desktop\AAit\TwotoOne\bin\Debug\net6.0\TwotoOne.exe
+C:\Users\Adunya\Desktop\AAit\TwotoOne\bin\Debug\net6.0\TwotoOne.deps.json
+C:\Users\Adunya\Desktop\AAit\TwotoOne\bin\Debug\net6.0\TwotoOne.runtimeconfig.json
+C:\Users\Adunya\Desktop\AAit\TwotoOne\bin\Debug\net6.0\TwotoOne.dll
+C:\Users\Adunya\Desktop\AAit\TwotoOne\bin\Debug\net6.0\ref\TwotoOne.dll
+C:\Users\Adunya\Desktop\AAit\TwotoOne\bin\Debug\net6.0\TwotoOne.pdb
+C:\Users\Adunya\Desktop\AAit\TwotoOne\obj\Debug\net6.0\TwotoOne.dll
+C:\Users\Adunya\Desktop\AAit\TwotoOne\obj\Debug\net6.0\ref\TwotoOne.dll
+C:\Users\Adunya\Desktop\AAit\TwotoOne\obj\Debug\net6.0\TwotoOne.pdb
+C:\Users\Adunya\Desktop\AAit\TwotoOne\obj\Debug\net6.0\TwotoOne.genruntimeconfig.cache
